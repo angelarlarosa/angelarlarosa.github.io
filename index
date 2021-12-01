@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-
-<html>angelarlarosa.github.io/memory<html>
-echo "# memory" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/angelarlarosa/memory.git
-git push -u origin main
 
